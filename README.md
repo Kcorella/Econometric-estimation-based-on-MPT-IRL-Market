@@ -1,2 +1,2 @@
-# Econometric-estimation-based-on-MPT-IRL-Market
+# Econometric-estimation-based-on-IRL MPT
 Final Porject - ML/RL In Finance
